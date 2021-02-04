@@ -3,4 +3,4 @@ writeExcel - This method is used to write data fetched from FlipKart to excel sh
 
 FlipKartPage - Required function definitions are written here.
 
-flipkart_test - Main function resides here.
+flipkart_test - Main function resides here. Run the script here.
